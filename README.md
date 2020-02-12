@@ -1,6 +1,6 @@
 # Engr478Project
 
 Names:
-\nDarshanie Botejue
-\nRod Polidano
-\nJavier Bravo
+Darshanie Botejue
+Rod Polidano
+Javier Bravo
